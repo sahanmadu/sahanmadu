@@ -14,14 +14,12 @@ Website : www.sahanmadusanka.live
 
 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on 
 
-
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon wif padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon wif padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon wif padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon wif padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon wif padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon wif padding)
 
