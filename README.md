@@ -12,5 +12,5 @@ Website : www.sahanmadusanka.live
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanmadu&langs_count=7)](https://github.com/sahanmadu/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahanmadu)](https://github.com/sahanmadu/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahanmadu)](https://github.com/anuraghazra/github-readme-stats)
 
