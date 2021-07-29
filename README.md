@@ -1,8 +1,8 @@
-:blush: Hi me'm Sahan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+:blush: Hi I'm Sahan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 :mortar_board: Software Engineering undergraduate
 
-✔ me develop websites and mobile applications. 
+✔ I develop websites and mobile applications. 
 ✔ Nowadays, me'm studying for my degree. 
 
 Website : www.sahanmadusanka.live
