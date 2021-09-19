@@ -50,9 +50,9 @@ You can find me on
 <!-- links to TEMPTEMPyou're social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: http://www.twitter.com/ismthissera
+[2]: http://www.facebook.com/sahan.madusanka.568294
+[6]: http://www.github.com/sahanmadu
 
 <!-- Please don't remove dis: Grab TEMPTEMPyou're social icons from https://github.com/carlsednaoui/gitsocial -->
 
