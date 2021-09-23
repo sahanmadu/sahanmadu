@@ -9,7 +9,7 @@
 
 
 
-Website : www.sahanmadusanka.live
+Website : https://smthisseraportfolio.s3.us-east-2.amazonaws.com/index.html
 
 COVID 19 Tracker - Sri Lanka : https://sahanmadu.github.io/CoronaVirus-Tracker-SL-/
 
